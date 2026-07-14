@@ -63,5 +63,9 @@
 
 ## Контакт
 
-Виталий Климин, Сургут  
-[vklimin@510710.com](mailto:vklimin@510710.com)
+Виталий Климин, Сургут
+
+- **Email:** [vklimin@510710.com](mailto:vklimin@510710.com)
+- **Телефон:** [+7 904 472-44-59](tel:+79044724459)
+- **Telegram:** [@vitaliyklimin](https://t.me/vitaliyklimin)
+- **GitHub:** [github.com/vklimin](https://github.com/vklimin)
